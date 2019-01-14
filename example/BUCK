@@ -1,0 +1,19 @@
+cxx_binary(
+  name = 'auto-cpu-timer',
+  srcs = [
+    'auto_cpu_timer_example.cpp',
+  ],
+  deps = [
+    '//:timer',
+  ],
+)
+
+cxx_binary(
+  name = 'timex',
+  srcs = [
+    'timex.cpp',
+  ],
+  deps = [
+    '//:timer',
+  ],
+)
