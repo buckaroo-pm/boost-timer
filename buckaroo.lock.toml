@@ -30,11 +30,11 @@ target = "//:throw-exception"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "3e3eee250bf8eb15855cbf758388046e9a2dbc8c"
+revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-chrono"]
 versions = [ "branch=master" ]
-revision = "d9135ae23f09a15931dbd15a99324dfe44954aba"
+revision = "0d9de7ea384e6e70d788667bb78c94f2cfe8949a"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
@@ -70,7 +70,7 @@ revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
 
 [lock."github.com/buckaroo-pm/boost-predef"]
 versions = [ "branch=master" ]
-revision = "73def0812b7235e0312079c729342787819bf1d5"
+revision = "c497db2c821492a2d6b0a16dc7f4edcec8c3aec6"
 
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]
