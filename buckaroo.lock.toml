@@ -34,7 +34,7 @@ revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-chrono"]
 versions = [ "branch=master" ]
-revision = "0d9de7ea384e6e70d788667bb78c94f2cfe8949a"
+revision = "17081edcdaf181adfb439745635b9752b3f33126"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
@@ -78,11 +78,11 @@ revision = "4d01d0f9c0ae3ae3cd20e3cbfddbc9909ce8e064"
 
 [lock."github.com/buckaroo-pm/boost-ratio"]
 versions = [ "branch=master" ]
-revision = "dabc418e4bb7a180d5d17c84fb4f0bd61a9ee024"
+revision = "1f612eed94abde0cba9d7410f57497d9b7fec768"
 
 [lock."github.com/buckaroo-pm/boost-rational"]
 versions = [ "branch=master" ]
-revision = "7a75e06a78e0481cb636412a62764f628ec8e56b"
+revision = "606d602160bb1dd48971708e40e92da5d84ead40"
 
 [lock."github.com/buckaroo-pm/boost-static_assert"]
 versions = [ "branch=master" ]
