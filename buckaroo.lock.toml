@@ -1,4 +1,4 @@
-manifest = "095e1cde5a1ba4f85b68ca6833247ec193a54ab3a9c0e12ab4c82d0d3f3d0ac9"
+manifest = "fc4771db286e2049cdf0c92b06b5c1d81b29d894329fde0fb0b49a19c8670b4a"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-chrono"
@@ -34,7 +34,7 @@ revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-chrono"]
 versions = [ "branch=master" ]
-revision = "0d9de7ea384e6e70d788667bb78c94f2cfe8949a"
+revision = "17081edcdaf181adfb439745635b9752b3f33126"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
@@ -90,7 +90,7 @@ revision = "fdc2df7f811436674a1c55c766b8830a8cd02e96"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "623a2c80a8448da0df4e7f20102e9e929e355551"
+revision = "7730c1c9ba6e809ab7e21c9115d362d5a717b112"
 
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
