@@ -1,0 +1,109 @@
+manifest = "f686ed46b25b310b7d0b8c21582f6d56e5b5ebb51e9dbeed8ee15be037588a13"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-chrono"
+target = "//:chrono"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+target = "//:config"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+target = "//:core"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+target = "//:detail"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-io"
+target = "//:io"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+target = "//:system"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+target = "//:throw_exception"
+
+[lock."github.com/buckaroo-pm/boost-assert"]
+versions = [ "1.56.0" ]
+revision = "9d1a6e0a4a74ad3af0ade7285ab5edd52c6fd860"
+
+[lock."github.com/buckaroo-pm/boost-chrono"]
+versions = [ "1.56.0" ]
+revision = "61cd56559f54598d55769e00cf9ca69b43f6967c"
+
+[lock."github.com/buckaroo-pm/boost-config"]
+versions = [ "1.56.0" ]
+revision = "edb8562f816250216903f89ec4d9ac0961a922a1"
+
+[lock."github.com/buckaroo-pm/boost-core"]
+versions = [ "1.56.0" ]
+revision = "599096bd0a9ca5ecd901886f09046e3f7ce05556"
+
+[lock."github.com/buckaroo-pm/boost-detail"]
+versions = [ "1.56.0" ]
+revision = "baeb2fb09197e1422a40481e9080e17c75cd50cf"
+
+[lock."github.com/buckaroo-pm/boost-exception"]
+versions = [ "1.56.0" ]
+revision = "6da7bf765b989720d67fee49d07f5d8e56663d5b"
+
+[lock."github.com/buckaroo-pm/boost-integer"]
+versions = [ "1.56.0" ]
+revision = "68e4e54f50d15baa85f355a3ad9c3004126883f6"
+
+[lock."github.com/buckaroo-pm/boost-io"]
+versions = [ "1.56.0" ]
+revision = "4181bde06eca6d2393a5ed6ee98e3ea267ba6cb1"
+
+[lock."github.com/buckaroo-pm/boost-iterator"]
+versions = [ "1.56.0" ]
+revision = "eff241f4a4f7a547baf2d69f77876a13749c8ee5"
+
+[lock."github.com/buckaroo-pm/boost-mpl"]
+versions = [ "1.56.0" ]
+revision = "f48532b0f5651560bbb1289abebad73a14953c88"
+
+[lock."github.com/buckaroo-pm/boost-predef"]
+versions = [ "1.56.0" ]
+revision = "86f4d74778d6d587a57a6905604abfb2ee00f939"
+
+[lock."github.com/buckaroo-pm/boost-preprocessor"]
+versions = [ "1.56.0" ]
+revision = "ad21a117be237ab693f723782c5581bb58ce8875"
+
+[lock."github.com/buckaroo-pm/boost-ratio"]
+versions = [ "1.56.0" ]
+revision = "4b81d6e0a37483248f4d726e106fc8ccadd0523c"
+
+[lock."github.com/buckaroo-pm/boost-rational"]
+versions = [ "1.56.0" ]
+revision = "52856571288798e28ad963e55aca09f63c6b1d8e"
+
+[lock."github.com/buckaroo-pm/boost-static_assert"]
+versions = [ "1.56.0" ]
+revision = "37f8e9a9f7a9e93ab1ebed5fc2f8614d3c52e710"
+
+[lock."github.com/buckaroo-pm/boost-system"]
+versions = [ "1.56.0" ]
+revision = "a23f353b4dbee85c9c914b4795681273dd4efc72"
+
+[lock."github.com/buckaroo-pm/boost-throw_exception"]
+versions = [ "1.56.0" ]
+revision = "f7cd6c73ebbbd290cf37c64141e76f12dcfed467"
+
+[lock."github.com/buckaroo-pm/boost-type_traits"]
+versions = [ "1.56.0" ]
+revision = "9641085a42a25ca196d08d542862616f877cf693"
+
+[lock."github.com/buckaroo-pm/boost-typeof"]
+versions = [ "1.56.0" ]
+revision = "849ab7422209bb46844fc019b7fa3feb66efd69f"
+
+[lock."github.com/buckaroo-pm/boost-utility"]
+versions = [ "1.56.0" ]
+revision = "4cb87af8e2e77f0826f17eca369395ba86ef1a17"
