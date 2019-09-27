@@ -1,0 +1,29 @@
+targets = ["//:timer"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-chrono"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-io"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+version = "1.67.0"
